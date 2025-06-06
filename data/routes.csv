@@ -1,0 +1,6 @@
+route_id,origin_id,destination_id,distance,avg_duration
+RT001,JFK,LHR,5567,420
+RT002,LHR,DXB,3420,360
+RT003,PVG,SYD,7834,600
+RT004,DXB,JFK,11087,780
+RT005,SYD,PVG,7834,600
