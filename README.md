@@ -73,7 +73,7 @@ python train.py \
 ```
 
 ## Prediction
-### Generate Predictions
+### Prediction Process
 ```bash
 python predict.py \
   --model_checkpoint best_model.pt \
